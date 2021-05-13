@@ -14,4 +14,4 @@ Function requires at minimum two parameters:
 convert the volume to binary. doubleThreshold must be type double
 precision [0,1].
 
-See MATLAB file depthVolumeColorCoder_Examples for examples. 
+See MATLAB file depthVolumeColorCoder_Examples for examples or PDF named depthVolumeColorCoder_Examples.
