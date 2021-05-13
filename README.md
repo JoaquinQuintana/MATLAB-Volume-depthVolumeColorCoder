@@ -10,7 +10,7 @@ distinguish the depth in the volume.
 Function requires at minimum two parameters:
 1. vol be a 3D grayscale matrix 
 2. colormap be a MATLAB defined colormap 
-3. doubleThreshold is optional and is user defined threshold used to
+3. doubleThreshold is optional and is a user defined threshold used to
 convert the volume to binary. doubleThreshold must be type double
 precision [0,1].
 
